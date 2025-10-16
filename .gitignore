@@ -1,0 +1,6 @@
+# Ignore virtual env
+env/
+
+# Ignore python-version
+.python-version
+
