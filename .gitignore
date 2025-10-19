@@ -4,3 +4,5 @@ env/
 # Ignore python-version
 .python-version
 
+# Ignore Glove Models txt
+models/glove.6b/
